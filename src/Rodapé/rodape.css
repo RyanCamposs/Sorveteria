@@ -1,0 +1,16 @@
+footer {
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 80px;
+    height: 60px;
+}
+
+.footer {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

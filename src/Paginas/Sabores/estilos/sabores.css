@@ -1,0 +1,52 @@
+.content-sabores {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.img1 {
+    background-image: url(../../../assets/banner-sabores.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 50vw;
+    
+}
+
+.text1 {
+    width: 50vw;
+}
+.text1 h2 {
+    font-weight: bold;
+    font-size: 27px;
+    margin: 0;
+}
+
+.text1 h3 {
+    font-style: italic;
+}
+
+.text1 p {
+    text-align:center;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+.img2 {
+    background-image: url(../../../assets/eventos-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 50vw;
+}
+
+.img3 {
+    background-image: url(../../../assets/sobre-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 50vw;
+}

@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    
+}
+
+body {
+    width: 100vw;
+    
+    
+}
+
+header {
+    background-color: rgb(228, 228, 97);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav ul{
+    display: flex;
+}
+
+.nav li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0 30px;
+    font-weight: bold;
+}
+
+img {
+    width: 60px;
+}
