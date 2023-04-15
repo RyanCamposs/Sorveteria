@@ -11,7 +11,7 @@ export default function Topo() {
 
             <div className="nav"> 
                 <ul>
-                    <li><Link to="/home">Home</Link></li>
+                    <li><Link to="/">Home</Link></li>
                     <li><Link to="/sabores">Sabores</Link></li>
                     <li><Link to="/sobre">Sobre</Link></li>
                 </ul>   
